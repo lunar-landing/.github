@@ -1,17 +1,3 @@
-<p></p>
-<p></p>
-<p></p>
-
-<p align="center" style="margin-top:40px;">
-    <img src="https://foruda.gitee.com/avatar/1756579907128322584/6958819_lunarlanding_1756579907.png" height="60"/>
-</p>
-
-<div align="center">
-
-<h1> lunar landing </h1>
-
-</div>
-
 ### 社区愿景
 
 致 力 于 让 程 序 开 发 变 得 简 单 优 雅；
@@ -34,27 +20,9 @@
 
 lunar landing 社区是国内一群技术的爱好者自发组织成立的开源组织。
 
-### 精选项目
-
-lunar landing 社区组织提供了多元的开源项目, 目前已加入社区的项目包括：
-
-**[rudis](https://gitee.com/lunarlanding/rudis)** :  一 个 高 性 能 键 值 数 据 库.
-
-**[pear-admin](https://gitee.com/lunarlanding/pear-admin)** : 一 款 开 箱 即 用 的 前 端 开 发 模 板.
-
-**[pear-admin-boot](https://gitee.com/lunarlanding/pear-admin-boot)** : 一 款 Spring Boot 生 态 的 权 限 管 理 快 速 开 发 平 台.
-
-**[pear-admin-flask](https://gitee.com/lunarlanding/pear-admin-flask)** : 一 款 Flask 生 态 的 权 限 管 理 快 速 开 发 平 台.
-
-**[layui-vue](https://gitee.com/lunarlanding/layui-vue)** :  一 套 Vue 3.0 的 桌 面 端 组 件 库.
-
-
-**🔶[ 点击查看全部项目 » ](https://gitee.com/organizations/lunarlanding/projects)**
-
 ### 新闻订阅
 
 ![输入图片说明](https://foruda.gitee.com/images/1756784351887872808/81e6bbb6_4835367.png "屏幕截图")
-
 
 ### 联系我们
 
